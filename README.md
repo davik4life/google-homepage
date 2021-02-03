@@ -1,0 +1,1 @@
+This is a project that involves the masking of the google homepage. We were asked to use the Googke Dev Tool available in the browser, the console. So, I'm unto it immediately.
