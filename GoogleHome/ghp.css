@@ -121,6 +121,8 @@ body{
     border-radius: 30px;
     padding: 10px;
     border-color: grey;
+	background-color: aliceblue;
+	border-block: none;
 }
 
 .gbutton{
